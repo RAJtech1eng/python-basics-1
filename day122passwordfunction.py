@@ -16,7 +16,8 @@ random7=random.choice(all_combineto_list)
 random8=random.choice(all_combineto_list)
 random9=random.choice(all_combineto_list)
 random10=random.choice(all_combineto_list)
-rew=random1+random2+random3+random4+random5+random6+random7+random8+random9+random10
+password=random1+random2+random3+random4+random5+random6+random7+random8+random9+random10
 
 
-print(f'Password is :{rew}')
+print(f'Password is :{password}')
+
