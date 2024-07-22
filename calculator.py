@@ -8,7 +8,7 @@ def get_sum():
 root=tk.Tk()
 root.title('TC Calculator')
 root.geometry('300x200')
-root.config(bg='green')
+root.config(bg='gre')
 label1=tk.Label(root,text='enter first number: ')
 label1.pack(pady=5)
 entry1=tk.Entry (root)
